@@ -1,0 +1,5 @@
+# Ignore all
+*/ignore/*
+
+# except
+!*/ignore/present.txt
